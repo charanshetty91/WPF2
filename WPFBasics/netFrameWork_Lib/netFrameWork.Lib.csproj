@@ -44,10 +44,10 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Interface\IBase.cs" />
     <Compile Include="Interface\IBase2.cs" />
+    <Compile Include="Model\Constants.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
