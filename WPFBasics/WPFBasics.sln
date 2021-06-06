@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFBasics", "WPFBasics\WPFB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netFrameWork.Lib", "netFrameWork_Lib\netFrameWork.Lib.csproj", "{6FE8695C-EC70-47E6-A162-2A0B4DABBE92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standard.Lib", "Standard.Lib\Standard.Lib.csproj", "{D9E5BB9C-A409-4C13-A373-E97740430BE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Standard.Lib", "Standard.Lib\Standard.Lib.csproj", "{D9E5BB9C-A409-4C13-A373-E97740430BE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Test", "ConsoleApp.Test\ConsoleApp.Test.csproj", "{60D7C564-D330-4D0D-A854-174453F4D1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCore", "CSCore\CSCore.csproj", "{6D9ACC18-AD5E-41D2-BF6F-83717F1C83AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{60D7C564-D330-4D0D-A854-174453F4D1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60D7C564-D330-4D0D-A854-174453F4D1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60D7C564-D330-4D0D-A854-174453F4D1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9ACC18-AD5E-41D2-BF6F-83717F1C83AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9ACC18-AD5E-41D2-BF6F-83717F1C83AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9ACC18-AD5E-41D2-BF6F-83717F1C83AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9ACC18-AD5E-41D2-BF6F-83717F1C83AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
